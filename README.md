@@ -6,7 +6,7 @@
 📌 I'm a Web Developer. And, I'm studying web developer at [Rocketseat](https://rocketseat.com.br). 🚀🚀🚀
 
 #### Current stack 🔥🔥🔥
-Currently I program in: </br>
+💻 Currently I program in: </br>
 📌 Backend: `NODEJS` </br>
 📌 Frontend: `HTML`, `CSS`, `JAVASCRIPT` </br>
 📌 Version code control: `Git and GitHub` </br>
