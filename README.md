@@ -2,5 +2,20 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Mateus Carvalho</h1>
 <p align="left">
 
-🌱 Currently I program in HTML, CSS, JAVASCRIPT, SQL, NODE
-📫 How to find me: @Mateus1Carvalho
+#### About
+📌 I'm a Web Developer. And, I'm studying web developer at [Rocketseat](https://rocketseat.com.br). 🚀🚀🚀
+
+#### Current stack 🔥🔥🔥
+Currently I program in: </br>
+📌 Backend: `NODEJS` </br>
+📌 Frontend: `HTML`, `CSS`, `JAVASCRIPT` </br>
+📌 Version code control: `Git and GitHub` </br>
+📌 Tools: `VsCode` </br>
+
+
+#### Contacts ✅
+📫 How to find me: </br>
+📌 Linkedin: https://www.linkedin.com/in/mateus-carvalho-programador-2b9313249/ </br>
+📌 Email: mateus_raimundo95@outlook.com </br>
+📌 Twitter: @Mateus1Carvalho
+
