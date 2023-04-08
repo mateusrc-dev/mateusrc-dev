@@ -3,7 +3,7 @@
 <p align="left">
 
 #### About
-📌 I'm a Web Developer. And, I'm studying web developer at [Rocketseat](https://rocketseat.com.br). 🚀🚀🚀
+📌 I'm a Web Developer Front-end. And, I'm studying web developer at [Rocketseat](https://rocketseat.com.br). 🚀🚀🚀
 
 #### Current stack 🔥🔥🔥
 💻 Currently I program in: </br>
