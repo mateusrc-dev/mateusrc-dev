@@ -7,7 +7,7 @@
 
 #### Current stack 🔥🔥🔥
 💻 Currently I program in: </br>
-📌 Backend: `NODEJS` </br>
+📌 Backend: `NODEJS` , `VITEST`, `DOCKER`, `PRISMA`</br>
 📌 Frontend: `JAVASCRIPT`, `REACTJS`, `STYLED-COMPONENTS`, `TYPESCRIPT`, `NEXTJS`, `REACT-NATIVE`, `NATIVE-BASE` </br>
 📌 Version code control: `Git and GitHub` </br>
 📌 Tools: `VsCode` </br>
