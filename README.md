@@ -3,7 +3,7 @@
 <p align="left">
 
 #### About
-📌 I'm a Web Developer Fullstack. And, I'm studying web developer at [Rocketseat](https://rocketseat.com.br). 🚀🚀🚀
+📌 I'm a Front-end Engineer. 🚀🚀🚀
 
 #### Current stack 🔥🔥🔥
 💻 Currently I program in: </br>
