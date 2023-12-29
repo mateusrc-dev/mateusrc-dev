@@ -15,6 +15,6 @@
 #### Contacts ✅
 📫 How to find me: </br>
 📌 Linkedin: https://www.linkedin.com/in/mateus-carvalho-programador-2b9313249/ </br>
-📌 Email: mateus_raimundo95@outlook.com </br>
+📌 Email: mateus.raimundo1995@gmail.com </br>
 📌 Twitter: @Mateus1Carvalho
 
