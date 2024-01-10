@@ -8,7 +8,7 @@
 #### Current stack 🔥🔥🔥
 💻 Currently I program in: </br>
 📌 Backend: `NODEJS` , `TYPESCRIPT`, `VITEST`, `DOCKER`, `FASTIFY`, `ZOD`, `PRISMA`, `DDD`, `NESTJS` `ELIXIR`</br>
-📌 Frontend: `JAVASCRIPT`, `REACTJS`, `STYLED-COMPONENTS`, `TYPESCRIPT`, `NEXTJS`, `REACT-NATIVE`, `NATIVE-BASE` </br>
+📌 Frontend: `JAVASCRIPT`, `BOOTSTRAP`, `REACTJS`, `STYLED-COMPONENTS`, `TYPESCRIPT`, `NEXTJS`, `REACT-NATIVE`, `NATIVE-BASE` </br>
 📌 Version code control: `Git and GitHub` </br>
 📌 Tools: `VsCode` </br>
 
