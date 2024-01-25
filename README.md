@@ -3,7 +3,7 @@
 <p align="left">
 
 #### About
-📌 I'm a Front-end Engineer. 🚀🚀🚀
+📌 I'm a developer fullstack. 🚀🚀🚀
 
 #### Current stack 🔥🔥🔥
 💻 Currently I program in: </br>
