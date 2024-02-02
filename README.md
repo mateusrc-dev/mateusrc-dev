@@ -12,6 +12,9 @@
 📌 Version code control: `Git and GitHub` </br>
 📌 Tools: `VsCode` </br>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusrc-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusrc-dev&layout=compact&langs_count=7&theme=dracula"/>
+
 #### Contacts ✅
 📫 How to find me: </br>
 📌 Linkedin: https://www.linkedin.com/in/mateus-carvalho-programador/ </br>
