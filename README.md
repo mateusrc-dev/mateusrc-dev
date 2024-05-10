@@ -11,7 +11,7 @@
 📌 Frontend: `JAVASCRIPT`, `JQUERY`, `BOOTSTRAP`, `SASS`, `REACTJS`, `VUE-JS`, `STYLED-COMPONENTS`, `TYPESCRIPT`, `NEXTJS`, `REACT-NATIVE`, `NATIVE-BASE` </br>
 📌 Version code control: `Git and GitHub` </br>
 📌 Tools: `VsCode`, `SpringToolSuite` </br>
-📌 Portfólio: https://vercel.com/mateusrcdevs-projects/portfolio-ebac </br> 
+📌 Portfolio: https://vercel.com/mateusrcdevs-projects/portfolio-ebac </br> 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusrc-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
