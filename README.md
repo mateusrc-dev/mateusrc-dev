@@ -10,8 +10,7 @@
 📌 Backend: `NODEJS` , `TYPESCRIPT`, `VITEST`, `DOCKER`, `FASTIFY`, `ZOD`, `PRISMA`, `DDD`, `NESTJS` `ELIXIR`. `JAVA`</br>
 📌 Frontend: `JAVASCRIPT`, `JQUERY`, `BOOTSTRAP`, `SASS`, `REACTJS`, `VUE-JS`, `STYLED-COMPONENTS`, `TYPESCRIPT`, `NEXTJS`, `REACT-NATIVE`, `NATIVE-BASE` </br>
 📌 Version code control: `Git and GitHub` </br>
-📌 Tools: `VsCode` </br>
-
+📌 Tools: `VsCode`, `SpringToolSuite` </br>
 📌 Portfólio: https://vercel.com/mateusrcdevs-projects/portfolio-ebac </br> 
 
 <div align="center">
